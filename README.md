@@ -33,7 +33,7 @@ Altyapı, yukarıda listelenen adımlara karşılık gelen aşağıdaki özellik
 ### 1. 🏠 Ana Sayfa
 Bu, index.js main dosyasına sahip tamamen ayarlanmış bir altyapıdır. Aşağıdaki örnek komutlara sahiptir.
 - /ping
-
+- /yardım
 Botunuzda sıkıntı varsa aşağıdaki yöntemleri uygulayın.
 
 ```{tip}
